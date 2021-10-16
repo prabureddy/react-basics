@@ -1,0 +1,8 @@
+.Person_main {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  height: 80px;
+  background-color: #ff7676;
+  align-items: center;
+}

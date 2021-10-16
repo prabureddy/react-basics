@@ -1,0 +1,14 @@
+.Persons__main {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  gap: 15px;
+  overflow: auto;
+}
+
+.Persons__input {
+  display: flex;
+  padding: 20px 0;
+  justify-content: space-around;
+  background-color: orange;
+}
